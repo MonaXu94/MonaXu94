@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Hi, this is Mona! 
+- I graduated from the master's program of Business Analytics at UC, Ivine. I have an interdisciplinary background of financial accounting and business analytics. After I got my B.A. and M.A. degree of accounting, I found my passion and interest in corporate finance and pursued my Ph.D. degree in the corresponding field. Combining all my academical and professional experience, I realize business analytics is very practical tool and because I want to devote my professional knowledge into analysis and problem-solving in real business world, so that’s why I am pursuing master’s degree in business Analytics.
 <!--
 **MonaXu94/MonaXu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
