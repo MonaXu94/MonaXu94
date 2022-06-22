@@ -1,10 +1,8 @@
-
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp"  width="200">
 </div>
 
-### :woman_technologist: About Me :
+#### :woman_technologist: About Me :
 
 - Hi, this is Mona! 
 - I graduated from the master's program of Business Analytics at UC, Ivine. 
@@ -14,7 +12,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLSERVER" alt="SQLSERVER" width="40" height="40"/>&nbsp;
